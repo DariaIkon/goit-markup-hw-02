@@ -42,7 +42,7 @@ a.webstudio-header {
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.192px;
   letter-spacing: 0.03em;
   color: #2196F3;
 }
@@ -54,7 +54,7 @@ a.webstudio-header {
 a.contacts {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.143px;
   letter-spacing: 0.02em;
   color: var(--gray-colour);
 }
@@ -62,7 +62,7 @@ a.contacts {
 .top-name {
   font-weight: 900;
   font-size: 44px;
-  line-height: 60px;
+  line-height: 1.364px;
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -71,7 +71,7 @@ a.contacts {
 .top-button {
   font-weight: bold;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.875px;
   display: flex;
   align-items: center;
   text-align: center;
@@ -90,7 +90,7 @@ a.contacts {
 .headline-top {
   font-weight: bold;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.143px;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--main-dark-colour);
@@ -98,7 +98,7 @@ a.contacts {
 .main-info-text {
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.714px;
   letter-spacing: 0.03em;
   color: var(--gray-colour);
 }
@@ -107,7 +107,7 @@ a.contacts {
 .headline-activities {
   font-weight: bold;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 1.167px;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--main-dark-colour);
@@ -117,7 +117,7 @@ a.contacts {
 .headline-team {
   font-weight: bold;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 1.167px;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--main-dark-colour);
@@ -126,7 +126,7 @@ a.contacts {
 ul.team h3{
   font-weight: 500;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1.186px;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--main-dark-colour);
@@ -134,7 +134,7 @@ ul.team h3{
 ul.team p {
   font-weight: normal;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1.186px;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--gray-colour);
@@ -147,14 +147,14 @@ a.webstudio-footer {
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.192px;
   letter-spacing: 0.03em;
   color: #2196F3;
 }
 .footer a {
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.714px;
   letter-spacing: 0.03em;
   /*color: rgba(255, 255, 255, 0.6);*/
 }
@@ -162,7 +162,7 @@ a.webstudio-footer {
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.714px;
     letter-spacing: 0.03em;
     /*color: var(--main-light-colour);*/
   }
@@ -176,7 +176,7 @@ a.webstudio-footer {
 .button-portfolio li {
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.625px;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--main-dark-colour);
@@ -191,14 +191,14 @@ a.webstudio-footer {
  .menu-portfolio h3 {
     font-weight: bold;
     font-size: 18px;
-    line-height: 36px;
+    line-height: 2px;
     letter-spacing: 0.06em;
     color: var(--main-dark-colour);
  }
  .menu-portfolio p {
     font-weight: normal;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 1.875px;
     letter-spacing: 0.03em;
     color: var(--gray-colour);
  }
