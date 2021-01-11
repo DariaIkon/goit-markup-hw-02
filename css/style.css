@@ -72,6 +72,7 @@ a.contacts {
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
+  
 /*color: var(--main-light-colour);*/
 }
 .top-button {
@@ -82,14 +83,9 @@ a.contacts {
   align-items: center;
   text-align: center;
   letter-spacing: 0.06em;
+  background-color: var(--hover-color);
   /*color: var(--main-light-colour);;*/
   
-}
-.top-button:hover, 
-.top-button:active,
-.top-button:focus {
-    color: var(--main-light-colour);;
-    background-color: var(--hover-color);
 }
 
 /* main info */
