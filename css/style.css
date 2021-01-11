@@ -39,6 +39,9 @@ a {
      {
         color: var(--hover-color);
     }
+  pre {
+      white-space: pre-wrap;
+    } 
 
 a.webstudio-header {
   font-family: Raleway;
