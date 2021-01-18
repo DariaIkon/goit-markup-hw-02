@@ -71,7 +71,7 @@ a.contacts {
 }
 /* top */
 .studio-top {
-  background-color: --bg-dark-color;
+  background-color: var(--bg-dark-color);
   }
 
 .top-name {
@@ -162,6 +162,7 @@ a.webstudio-footer {
   color: var(--link-gray-color); 
 }
 .address {
+    font-style: normal;
     font-weight: normal;
     line-height: 1.714;
     letter-spacing: 0.03em;
